@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e1a87b7-9425-4947-82d3-c16370820233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/geoDiff/Feature.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/geoDiff/FeatureCollection.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/geoDiff/Geometry.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/geoDiff/enums/GeometryType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/geoDiff/utils/FeatureCollectionFactory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/geoDiff/utils/Hashing.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/geoDiff/utils/HashingTest.kt" afterDir="false" />
+    <list default="true" id="0e1a87b7-9425-4947-82d3-c16370820233" name="Changes" comment="Aller Anfang ist schwer">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AltayAkkus"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AltayAkkus/geoDiff.git",
+    "accountId": "82283d38-58d8-46d7-8d61-8fe40e7fc1da"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gy1OC8AZrxhTJcsrs8ykQIuZg3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -64,6 +64,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -92,10 +93,35 @@
       <option name="presentableId" value="Default" />
       <updated>1716654973486</updated>
       <workItem from="1716654974634" duration="23489000" />
+      <workItem from="1716738905011" duration="1222000" />
     </task>
+    <task id="LOCAL-00001" summary="Aller Anfang ist schwer">
+      <option name="closed" value="true" />
+      <created>1716738983320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716738983320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aller Anfang ist schwer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aller Anfang ist schwer" />
   </component>
 </project>
